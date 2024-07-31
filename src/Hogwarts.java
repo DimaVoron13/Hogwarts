@@ -39,4 +39,5 @@ public class Hogwarts {
         return "Юный чародей " + name + " : Сила магии - " + thePowerOfMagic
                 + " Расстояние трансгрессии - " + transgressionDistance;
     }
+
 }
